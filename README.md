@@ -7,6 +7,8 @@ Data Scientist - Technical interview.pdf is an original task that I received
 
 Data Scientist Artem Lytvyn.docx is a file with my answers and solutions
 
+Data Scientist Artem Lytvyn.pdf is a file with my answers and solutions in .pdf format
+
 scripts.sql is a file with SQL scripts from SQL part of the task. It should be the same as in .docx file
 
 recommender_system is a folder with recommendation engine. Here is what it contains:
