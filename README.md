@@ -3,7 +3,7 @@ Test assignment for Preply by Artem Lytvyn
 
 linkedin.com/in/artem-lytvyn-1aa135b3
 
-Data Scientist - Technical interview.pdf is an original task that ireceived
+Data Scientist - Technical interview.pdf is an original task that I received
 
 Data Scientist Artem Lytvyn.docx is a file with my answers and solutions
 
